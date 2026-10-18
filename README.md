@@ -240,3 +240,11 @@ Send any of the following messages to your Telegram bot:
 - Improve handling of ambiguous event names and relative dates.
 - Add automated tests for common calendar operations.
 - Expand error notifications and execution monitoring.
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0b3a5c,100:0d1117&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&fontAlignY=52&desc=If%20this%20project%20saved%20you%20time%2C%20give%20it%20a%20star%20and%20share%20it%20with%20a%20friend%20who%20loves%20automation.&descSize=15&descAlign=50&descAlignY=70&descColor=9fd8ff&animation=twinkling" alt="Thanks for visiting. If this project saved you time, give it a star and share it with a friend who loves automation." />
+
+</div>
